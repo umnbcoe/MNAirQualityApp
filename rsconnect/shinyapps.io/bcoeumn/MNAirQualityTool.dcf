@@ -1,0 +1,14 @@
+name: MNAirQualityTool
+title: MNAirQualityTool
+username:
+account: bcoeumn
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6810652
+bundleId: 6217632
+url: https://bcoeumn.shinyapps.io/MNAirQualityTool/
+when: 1660911867.29184
+lastSyncTime: 1660911867.29184
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: dataupdate.r
